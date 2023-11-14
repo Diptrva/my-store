@@ -1,0 +1,15 @@
+.product-card {
+  position: relative;
+  padding: 11px 24px;
+  cursor: pointer;
+}
+
+.product-card__cover {
+  padding: 15px;
+}
+
+.product-card__price {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+}
